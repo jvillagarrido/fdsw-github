@@ -37,19 +37,21 @@ body {
   }
 
 }
-
+.no-padd
+{
+  padding: 0px;
+}
 .img-tam{
-  height: 85px;
+  height: 75px;
   width: 90px;
   padding: 0px;
   margin: 0px;
-  border-radius: 30%;
+  border-radius: 15%;
 }
-
 .img-tam2{
   height: 85px;
   width: 85px;
-  padding: 0px;
+  padding: 1px;
   margin: 0px;
   border-radius: 50%;
 }
